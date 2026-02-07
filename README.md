@@ -1,4 +1,4 @@
-# -skills---Agent-
+# -日报skills-让Agent秀-
 帮你一键整理，今天你的Agent都做什么了
 其实这个skills的英文名字叫let agent cook，我很喜欢。
 然后我的设计想法是，每天读取claude code的上下文内容，然后帮你总结协作日报。
